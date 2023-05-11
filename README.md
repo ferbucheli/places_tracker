@@ -57,6 +57,7 @@ To run this project, you will need to add the following environment variables to
 <div align="center">
   <img src="https://imgur.com/pJVCOxV.png" alt="Sublime's custom image"  height="600">
 </div>
+
 - Select a picture
 - Select a place on the Map
 - Click the Add Place Button
@@ -70,10 +71,4 @@ To run this project, you will need to add the following environment variables to
   <img src="https://i.imgur.com/mXj7Fnm.png" alt="Sublime's custom image"  height="600">
 </div>
 
-- The places is added!
-- You can view it in detail if you tap it
-
-<div align="center">
-  <img src="https://i.imgur.com/XERKJuc.png" alt="Sublime's custom image" height="600">
-</div>
 
