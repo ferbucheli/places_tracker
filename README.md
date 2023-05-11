@@ -1,16 +1,79 @@
-# place_tracker
 
-Place Tracker app where you can take photos of your favorite places and save them.
 
-## Getting Started
+# Places Tracker
 
-This project is a starting point for a Flutter application.
+Flutter app to track your favorite places!
 
-A few resources to get you started if this is your first Flutter project:
+![Contributors](https://img.shields.io/github/contributors/ferbucheli/places_tracker?style=flat-square&color=blue)
+![Issues](https://img.shields.io/github/issues/ferbucheli/places_tracker?style=flat-square&color=blue)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+<table>  
+		<tr>  
+			<td><b>Frontend</b></td>  
+			<td>Flutter</td>  
+		</tr>  
+</table>
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ferbucheli/places_tracker.git
+```
+
+Go to the project directory
+
+```bash
+  cd places_tracker
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+
+## Usage
+
+- Open the App
+- Click the Add icon on the top-right corner
+<div align="center">
+  <img src="https://imgur.com/pJVCOxV.png" alt="Sublime's custom image"  height="600">
+</div>
+- Select a picture
+- Select a place on the Map
+- Click the Add Place Button
+<div align="center">
+  <img src="https://i.imgur.com/XERKJuc.png" alt="Sublime's custom image"  height="600">
+</div>
+
+- The places is added!
+- You can view it in detail if you tap it
+<div align="center">
+  <img src="https://i.imgur.com/mXj7Fnm.png" alt="Sublime's custom image"  height="600">
+</div>
+
+- The places is added!
+- You can view it in detail if you tap it
+
+<div align="center">
+  <img src="https://i.imgur.com/XERKJuc.png" alt="Sublime's custom image" height="600">
+</div>
+
